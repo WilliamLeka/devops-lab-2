@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-print("This is another string!")
-=======
-print("Welcome!")
->>>>>>> 3fb3bfa915680b48e943ad470ceedbddb88e8106
+
+n1= 4
+n2 = 7
+n3 = 5
+n4 = 9
+n5 = 6
+
+average = (n1+n2+n3+n4+n5) / 5
